@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Taller Listview</string>
+    <string name="opcstringiones">OPCIONES</string>
+    <string name="Areas">Areas</string>
+    <string name="Volumenes">Volumenes</string>
+    <string name="OperacionesRealizadas">Operaciones Realizadas</string>
+    <array name="Valores">
+        <item>@string/Areas</item>
+        <item>@string/Volumenes</item>
+        <item>@string/OperacionesRealizadas</item>
+    </array>
+    <string name="cuadrado">Cuadrado</string>
+    <string name="rectangulo">Rectangulo</string>
+    <string name="triangulo">triangulo</string>
+    <string name="circulo">Circulo</string>
+    <string name="valordellado">Valor del Lado</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="borrar">BORRAR</string>
+    <string name="Resultado">Resultado</string>
+    <string name="ok">OK</string>
+    <string name="No">No.</string>
+    <string name="operacion">Operacion</string>
+    <string name="datos">Dato 1</string>
+    <string name="resultado">Resultado</string>
+    <string name="ValorBase">Valor Base :</string>
+    <string name="valoraltura">Valor Altura</string>
+    <string name="dato2">Dato 2</string>
+    <string name="radio">Radio :</string>
+
+    <array name="ValoresAreas">
+        <item>@string/cuadrado</item>
+        <item>@string/rectangulo</item>
+        <item>@string/triangulo</item>
+        <item>@string/circulo</item>
+    </array>
+
+    </resources>
